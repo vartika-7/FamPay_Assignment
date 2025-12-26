@@ -84,10 +84,10 @@ EMA-20
 ```
 FamPay_Assignment  
  ├── output/  
- │   └── result_&lt;TICKER&gt;.csv 
+ │   └── result_<TICKER>.csv 
+ ├── README.md
  ├── stock_data.csv  
- ├── submission.ipynb  
- └── README.md
+ └── submission.ipynb  
 ```
 
  
