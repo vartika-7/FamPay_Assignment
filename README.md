@@ -114,7 +114,7 @@ Assertions ensure failures are caught early.
 
 ## 9. Tools & Technologies
 
-* Python 3
+* Python 3.13.5
 * Pandas
 * NumPy
 No third-party technical analysis libraries were used.
